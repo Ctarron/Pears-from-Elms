@@ -12,7 +12,7 @@ Also on [Planet Minecraft](https://www.planetminecraft.com/project/pears-from-el
 Also on [MapVerse](https://mapverse.net/map/pears-from-elms)
 
 
-[![Map](https://img.shields.io/github/downloads/Ctarron/Kuron-Flux/Kuron_Flux.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/Kuron-Flux/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/Kuron-Flux/Kuron_Flux_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/Kuron-Flux/releases/latest)
+[![Map](https://img.shields.io/github/downloads/Ctarron/Pears-from-Elms/Pears_from_Elms.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/Pears-from-Elms/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/Pears-from-Elms/Pears_from_Elms_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/Pears-from-Elms/releases/latest)
 
 ## Available Translations
 
