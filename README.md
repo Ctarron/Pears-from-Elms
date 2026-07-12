@@ -18,3 +18,5 @@ Also on [MapVerse](https://mapverse.net/map/pears-from-elms)
 
 - 🇺🇸 English
 - 🇪🇸 Spanish
+- 🇨🇳 Chinese (by Ylong)
+- 🇰🇷 Korean (by TheOnlyMann)
